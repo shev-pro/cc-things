@@ -1,6 +1,6 @@
 {
   "name": "thinking-tools",
-  "description": "Analytical thinking tools - dialectic analysis, bias elimination, codex consultation",
+  "description": "Thinking tools - Codex consultation for stuck debugging/review, and de-AI-ification of LLM-sounding text",
   "version": "0.1.0",
   "author": {
     "name": "ShevPRO"

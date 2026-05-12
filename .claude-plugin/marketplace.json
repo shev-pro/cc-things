@@ -7,7 +7,7 @@
     {
       "name": "thinking-tools",
       "source": "./plugins/thinking-tools",
-      "description": "Analytical thinking tools - dialectic analysis, bias elimination, codex consultation"
+      "description": "Thinking tools - Codex consultation for stuck debugging/review, and de-AI-ification of LLM-sounding text"
     }
   ]
 }
