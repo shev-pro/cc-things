@@ -1,0 +1,13 @@
+{
+  "name": "umputun-cc-thingz",
+  "owner": {
+    "name": "Umputun"
+  },
+  "plugins": [
+    {
+      "name": "thinking-tools",
+      "source": "./plugins/thinking-tools",
+      "description": "Analytical thinking tools - dialectic analysis, bias elimination, codex consultation"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "thinking-tools",
+  "description": "Analytical thinking tools - dialectic analysis, bias elimination, codex consultation",
+  "version": "0.1.0",
+  "author": {
+    "name": "ShevPRO"
+  },
+  "homepage": "https://github.com/shev-pro/cc-things",
+  "repository": "https://github.com/shev-pro/cc-things",
+  "license": "MIT"
+}
