@@ -7,7 +7,7 @@
     {
       "name": "thinking-tools",
       "source": "./plugins/thinking-tools",
-      "description": "Thinking tools - Codex consultation for stuck debugging/review, and de-AI-ification of LLM-sounding text"
+      "description": "Thinking tools - Codex consultation for stuck debugging/review, dialectic analysis to stress-test claims via opposing parallel agents, and de-AI-ification of LLM-sounding text"
     }
   ]
 }
